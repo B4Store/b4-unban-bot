@@ -2,8 +2,6 @@
 
 * https://discord.gg/b4s
 
-# This is Blacklist Bot For Free
-
 # Commands
 
 * / banlist
